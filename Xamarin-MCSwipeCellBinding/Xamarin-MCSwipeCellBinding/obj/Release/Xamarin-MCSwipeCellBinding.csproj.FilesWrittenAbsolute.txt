@@ -1,0 +1,5 @@
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/Xamarin-MCSwipeCellBinding/Xamarin-MCSwipeCellBinding/obj/Release/MonoTouch,Version=v1.0.AssemblyAttribute.cs
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/Xamarin-MCSwipeCellBinding/Xamarin-MCSwipeCellBinding/bin/Release/Xamarin-MCSwipeCellBinding.dll.mdb
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/Xamarin-MCSwipeCellBinding/Xamarin-MCSwipeCellBinding/bin/Release/Xamarin-MCSwipeCellBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/Xamarin-MCSwipeCellBinding/Xamarin-MCSwipeCellBinding/obj/Release/Xamarin-MCSwipeCellBinding.dll
+/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/Xamarin-MCSwipeCellBinding/Xamarin-MCSwipeCellBinding/obj/Release/Xamarin-MCSwipeCellBinding.dll.mdb

@@ -1,0 +1,330 @@
+TMCLib
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a normal armv7
+cLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a normal armv7s
+cLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a normal arm64
+cCreateUniversalBinary /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a normal armv7\ armv7s\ arm64
+cPBXCp MCLib/MCLib.h /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include/MCLib/MCLib.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000541748E4000000000000036B
+t1410812132
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000541748E4000000000000019E
+t1410812132
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000541748E50000000000A90C10
+t1410812133
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000541749070000000000000ADC
+t1410812167
+s2780
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch
+c00000000541C675500000000000000B6
+t1411147605
+s182
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.h
+c00000000541C675500000000000000C0
+t1411147605
+s192
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+c00000000541C675500000000000000AA
+t1411147605
+s170
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.LinkFileList
+c00000000541C67900000000000000159
+t1411147664
+s345
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o
+t1411147664
+s4000
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o
+t1411147664
+s160636
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a
+t1411147664
+s167120
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.LinkFileList
+c00000000541C67900000000000000159
+t1411147664
+s345
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o
+t1411147664
+s3528
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o
+t1411147664
+s149444
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a
+t1411147664
+s155456
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.LinkFileList
+c00000000541C6790000000000000015B
+t1411147664
+s347
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o
+t1411147664
+s3528
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o
+t1411147664
+s149412
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a
+t1411147664
+s155424
+
+N/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+c00000000541C61EE0000000000005C20
+t1411146222
+s23584
+
+N/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include/MCLib/MCLib.h
+t1411147620
+s192
+
+N/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a
+t1411147620
+s478068
+
+N/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch
+t1411147664
+s114844
+
+N/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch
+t1411147664
+s92236
+
+N/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch
+t1411147664
+s92232
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb66449109fccb941^79755a109fccb941^---0#1#1#--18"Check dependencies36"D11422C2-F466-41D6-8AA6-6E37A407D8D5-
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.449787
+e432840464.480206
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m165"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o MCLib/MCLib.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler965e73109fccb941^f6ef7a109fccb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m0000000000000000^3711"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o MCLib/MCLib.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/arm64 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.o36"64CDA3DF-F45C-4034-9475-677F239FC4EB-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.449614
+e432840464.609993
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m295"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler734773109fccb941^70289c109fccb941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m0000000000000000^3910"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/arm64 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCSwipeTableViewCell.o36"4D6504B3-42D9-41BA-86CB-247BB23A11DD-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.448601
+e432840464.477616
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m165"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o MCLib/MCLib.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilercc0c73109fccb941^0b457a109fccb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m0000000000000000^3711"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o MCLib/MCLib.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.o36"3842026A-7D29-44A0-AE11-EA632338AD19-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.448435
+e432840464.610020
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m295"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler271773109fccb941^cf2d9c109fccb941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m0000000000000000^3910"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCSwipeTableViewCell.o36"38927497-2350-4E21-B681-2912B9CEF719-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.449302
+e432840464.479839
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m167"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o MCLib/MCLib.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf54873109fccb941^fed67a109fccb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m0000000000000000^3718"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o MCLib/MCLib.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7s -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.o36"576DBA03-30A4-46DA-A2FB-3D10278A752A-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.448908
+e432840464.611840
+r1
+xCompileC
+xbuild/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Compile /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m297"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3e2173109fccb941^f1a19c109fccb941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m0000000000000000^3917"CompileC build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7s -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -include /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch -MMD -MT dependencies -MF /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.d --serialize-diagnostics /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.dia -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCSwipeTableViewCell/MCSwipeTableViewCell.m -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCSwipeTableViewCell.o36"278740F6-FBDE-458C-B868-D69B5CF16326-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CCreateUniversalBinary /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a normal armv7\ armv7s\ arm64
+s432840464.619273
+e432840464.629134
+r1
+xCreateUniversalBinary
+x/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Create universal binary /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a181"CreateUniversalBinary /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a normal armv7\ armv7s\ arm64ffaf9e109fccb941^f90fa1109fccb941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a0000000000000000^1027"CreateUniversalBinary /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a normal armv7\ armv7s\ arm64    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a -o /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/libMCLib.a36"50CDACD4-2025-442C-9F8E-ADA30897127A-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a normal arm64
+s432840464.612887
+e432840464.618349
+r1
+xLibtool
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a normal arm6497"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a normal arm64641e9d109fccb941^734c9e109fccb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--984"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a normal arm64    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -filelist /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/MCLib.LinkFileList -ObjC -framework Foundation -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/arm64/libMCLib.a36"2E25FCC8-52D5-4DC5-A24E-1E9043CE9165-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a normal armv7
+s432840464.612405
+e432840464.618792
+r1
+xLibtool
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a normal armv797"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a normal armv7b2f19c109fccb941^666a9e109fccb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--984"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a normal armv7    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -filelist /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/MCLib.LinkFileList -ObjC -framework Foundation -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7/libMCLib.a36"199024A1-6F49-4F39-95CE-8F9B81F88B8E-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CLibtool /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a normal armv7s
+s432840464.612641
+e432840464.618474
+r1
+xLibtool
+x/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a normal armv7s99"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a normal armv7sb1149d109fccb941^d6549e109fccb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--989"Libtool build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a normal armv7s    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos -filelist /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/MCLib.LinkFileList -ObjC -framework Foundation -o /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/Objects-normal/armv7s/libMCLib.a36"D50CC313-C4DD-4C2C-87A4-F90A89A4EB9F-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CPBXCp MCLib/MCLib.h /Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include/MCLib/MCLib.h
+r0
+
+CProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.355759
+e432840464.447699
+r1
+xProcessPCH
+x/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch
+xMCLib/MCLib-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile MCLib/MCLib-Prefix.pch302"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb3f5b109fccb941^bf9b72109fccb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch0000000000000000^3760"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/arm64 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.d -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch -o /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-adsucjonktzluxcycwyopsowhfca/MCLib-Prefix.pch.pch36"F80C5547-B02E-4A17-8969-C364BD7E633C-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.355563
+e432840464.447963
+r1
+xProcessPCH
+x/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch
+xMCLib/MCLib-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile MCLib/MCLib-Prefix.pch303"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler904c5b109fccb941^e6ad72109fccb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch0000000000000000^3763"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7s -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.d -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch -o /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-agcjcvvmsukywmeydeovmtaevtme/MCLib-Prefix.pch.pch36"91DE84FA-6833-4341-9346-C06814576603-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
+CProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s432840464.355368
+e432840464.447585
+r1
+xProcessPCH
+x/var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch
+xMCLib/MCLib-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile MCLib/MCLib-Prefix.pch302"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler122f5b109fccb941^189372109fccb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch0000000000000000^3760"ProcessPCH /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch MCLib/MCLib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-generated-files.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-own-target-headers.hmap -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-all-target-headers.hmap -iquote /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/MCLib-project-headers.hmap -I/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources/armv7 -I/Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/build/MCLib.build/Debug-iphoneos/MCLib.build/DerivedSources -F/Users/jianqiaoyang/Library/Developer/Xcode/DerivedData/MCLib-envinrupmtpmapaqnzciikmxqunk/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.d -c /Users/jianqiaoyang/Desktop/Sellegit/Sellegit_Mobile/Lib/MCSwipeTableViewCellBinding/MCLib/MCLib/MCLib-Prefix.pch -o /var/folders/nh/mtysffy116v7_z18hrbcxp_w0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MCLib-Prefix-hjjjswjhoaqyhmhaoifzosxlqxza/MCLib-Prefix.pch.pch36"54510631-D4D2-4DDB-A191-AE7037ACB714-
+b1C4FE9AB-E911-40AF-AACD-1D679C7BD1DD
+
